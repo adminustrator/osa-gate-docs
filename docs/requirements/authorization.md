@@ -5,6 +5,12 @@ title: Authorization
 
 # Authorization
 
+:::tip[Penyusun]
+
+- Reza Nurfachmi :: Fullstack Developer Senior Associate - Operational Technology
+
+:::
+
 **API Key** adalah kredensial rahasia yang digunakan untuk **mengautentikasi sistem Anda** saat mengakses Gate Integration API.
 
 API Key bersifat **unik untuk setiap client**, dan digunakan untuk memastikan bahwa setiap request berasal dari sistem yang terdaftar dan berizin.

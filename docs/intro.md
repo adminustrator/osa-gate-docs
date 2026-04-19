@@ -5,6 +5,12 @@ title: Intro
 
 # Gate Integration API
 
+:::tip[Penyusun]
+
+- Reza Nurfachmi :: Fullstack Developer Senior Associate - Operational Technology
+
+:::
+
 Gate Integration API memungkinkan sistem Anda terhubung dengan infrastruktur gate kami 
 untuk melakukan **validasi akses menggunakan QR Code atau Face Recognition** 
 secara real-time, aman, dan terstandarisasi.

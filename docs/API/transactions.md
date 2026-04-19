@@ -6,6 +6,12 @@ description: ""
 
 # Transactions
 
+:::tip[Penyusun]
+
+- Reza Nurfachmi :: Fullstack Developer Senior Associate - Operational Technology
+
+:::
+
 ## Headers
 
 | key           | value       | description            |

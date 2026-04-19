@@ -5,6 +5,12 @@ title: Gate
 
 # Gate ID
 
+:::tip[Penyusun]
+
+- Reza Nurfachmi :: Fullstack Developer Senior Associate - Operational Technology
+
+:::
+
 **Gate ID** adalah **identitas unik** yang merepresentasikan satu gate fisik (misalnya gate masuk, gate keluar, atau gate area tertentu).
 
 Gate ID digunakan oleh sistem untuk:
