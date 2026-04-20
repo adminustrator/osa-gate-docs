@@ -25,7 +25,7 @@ Endpoint ini digunakan untuk menyimpan data wajah untuk User OneSmile dengan nom
 |--------|----------|
 | POST   | `store-face`  |
 
-## Body Request
+## Multipart Form Body Request
 
 | key         | required | type       | description         |
 |-------------|----------|------------|---------------------|

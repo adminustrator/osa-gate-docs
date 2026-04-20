@@ -26,7 +26,7 @@ Endpoint ini digunakan untuk Gate dapat mengambil data wajah.
 |--------|----------|
 | POST   | `faces`  |
 
-## Body Request
+## JSON Body Request
 
 | key         | required | type    | description                                           |
 |-------------|----------|---------|-------------------------------------------------------|
