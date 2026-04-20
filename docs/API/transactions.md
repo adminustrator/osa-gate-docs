@@ -78,13 +78,3 @@ description: ""
   }
 }
 ```
-
-**Status code: 500**
-
-```json
-{
-  "success": false,
-  "msg": "QR tidak valid"
-}
-```
-
