@@ -24,11 +24,11 @@ description: ""
 |--------|----------------|
 | POST   | `scan-qr-gate` |
 
-## Body Request
+## JSON Body Request
 
 | key         | required | type    | description                         |
 |-------------|----------|---------|-------------------------------------|
-| token       | YES      | String  | QR or FR string                     |
+| token       | YES      | String  | QR string or member_id for FR       |
 | gate_id     | YES      | Integer | Gate ID from OneSmile               |
 | gate        | YES      | String  | Gate method: IN, OUT                |
 | access      | NO       | String  | options: `qrcode` (default), `face` |
