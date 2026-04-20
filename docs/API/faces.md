@@ -58,6 +58,8 @@ Endpoint ini digunakan untuk Gate dapat mengambil data wajah.
 }
 ```
 
+### Failure Response
+
 **Status code: 403**
 
 ```json

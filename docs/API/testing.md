@@ -55,6 +55,8 @@ Endpoint ini digunakan untuk menyimpan data wajah untuk User OneSmile dengan nom
 }
 ```
 
+### Failure Response
+
 **Status code: 400**
 
 ```json
