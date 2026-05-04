@@ -15,5 +15,5 @@ description: ""
 ## Production
 
 ```
-https://api.onesmile.digital/hook
+https://aca-prd.az-api.onesmile.digital/general-api/api/v2/gate
 ```

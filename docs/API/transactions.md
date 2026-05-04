@@ -22,7 +22,7 @@ description: ""
 
 | method | endpoint       |
 |--------|----------------|
-| POST   | `scan-qr-gate` |
+| POST   | `scan` |
 
 ## JSON Body Request
 

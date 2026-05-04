@@ -22,15 +22,15 @@ Endpoint ini digunakan untuk Gate dapat mengambil data wajah.
 
 ## Endpoint
 
-| method | endpoint |
-|--------|----------|
-| GET    | `faces`  |
+| method | endpoint        |
+|--------|-----------------|
+| GET    | `faces/:gateId` |
 
-## JSON Body Request
+## Param Request
 
-| key         | required | type    | description                                           |
-|-------------|----------|---------|-------------------------------------------------------|
-| gate_id     | YES      | Integer | Gate ID from OneSmile. Tiap Gate mendapatkan ID unik. |
+| key    | required | type    | description                                           |
+|--------|----------|---------|-------------------------------------------------------|
+| gateId | YES      | Integer | Gate ID from OneSmile. Tiap Gate mendapatkan ID unik. |
 
 ## Responses
 

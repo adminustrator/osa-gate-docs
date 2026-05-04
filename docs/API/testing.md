@@ -16,20 +16,22 @@ Endpoint ini digunakan untuk menyimpan data wajah untuk User OneSmile dengan nom
 
 ## Headers
 
-| key | value       | description            |
-|-----|-------------|------------------------|
+| key           | value       | description            |
+|---------------|-------------|------------------------|
+| Authorization | Basic [KEY] | KEY in base64 encoding |
 
 ## Endpoint
 
 | method | endpoint |
 |--------|----------|
-| POST   | `store-face`  |
+| POST   | `faces`  |
 
 ## Multipart Form Body Request
 
-| key         | required | type       | description         |
-|-------------|----------|------------|---------------------|
-| image_path     | YES      | Image File | Gambar wajah depan. |
+| key        | required | type       | description         |
+|------------|----------|------------|---------------------|
+| image_path | YES      | Image File | Gambar wajah depan. |
+| member_id  | No       | Integer    | Member ID OneSmile. |
 
 ## Responses
 
